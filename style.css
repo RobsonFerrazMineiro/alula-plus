@@ -170,6 +170,7 @@ body {
   .container {
     display: block;
     background-image: none;
+    height: 80vh;
   }
 
   .container__imagem {
